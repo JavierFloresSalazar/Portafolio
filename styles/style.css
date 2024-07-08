@@ -54,6 +54,7 @@ body{
 }
 
 .presentacion_contenido_titulo{
+    width: 100%;
     font-size: 2.25rem;
     color: blue;
     font-family: var(--fuente-krona);
@@ -64,6 +65,7 @@ body{
 }
 
 .presentacion_contenido_texto{
+    width: 100%;
     font-size: 1.5rem;
     padding: auto;
     /*font-family: var(--fuente-montserrat);*/
@@ -123,6 +125,7 @@ body{
 }
 
 .certificaciones{
+    width: 100%;
     color: blue;
     font-size: 2.25rem;
     font-family: var(--fuente-krona);
@@ -130,9 +133,10 @@ body{
 }
 
 .lista{
+    width: 100%;
     font-size: 1rem;
     padding: auto;
-    
+
 }
 
 @media (max-width: 1200px){
